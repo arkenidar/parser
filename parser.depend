@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619691054 source:/home/arkenidar/Dropbox/code/cpp-based/parser/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
